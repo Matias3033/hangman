@@ -1,6 +1,6 @@
 print("Welcome to the execution")
 
-word = input("Insert the word to find\n")
+word = input("Insert the word to play\n")
 
 word_list = []
 
